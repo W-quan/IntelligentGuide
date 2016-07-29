@@ -86,7 +86,7 @@
 
   [1]: https://www.mapbox.com/tilemill/
   [2]: https://www.mapbox.com/tilemill/docs/guides/discrete-raster-data/#discrete_raster_data
-  [3]: www.geoodk.com/downloads/mbtiles/MapBox_Demo_Layer.zip
+  [3]: http://www.geoodk.com/downloads/mbtiles/MapBox_Demo_Layer.zip
   [4]: http://www.geoodk.com/images/mbtiltes/Capture0.png
   [5]: http://www.geoodk.com/images/mbtiltes/Capture3.png
   [6]: http://www.geoodk.com/images/mbtiltes/Capture6.png
